@@ -1,6 +1,6 @@
 # Workout Posture Monitoring System
 
-The Workout Posture Monitoring System is a comprehensive application that leverages computer vision and machine learning to monitor and evaluate workout postures in real-time. Designed for fitness enthusiasts and professionals, it provides actionable feedback to improve workout form and minimize the risk of injury. The system supports various exercises such as squats and bicep curls, offering insights into performance trends and mistakes through an intuitive interface.
+The Workout Posture Monitoring System is a real-time application designed to evaluate and improve exercise posture using advanced computer vision and machine learning techniques. It leverages MediaPipe for keypoint detection, TensorFlow Lite for posture classification, and employs Streamlit as the frontend framework for an intuitive and interactive user interface. The system provides functionalities such as real-time posture analysis, rep counting, feedback on common mistakes, and video playback for detailed performance review, ensuring a comprehensive and user-friendly experience for fitness enthusiasts.
 
 ## Prerequisites
 
