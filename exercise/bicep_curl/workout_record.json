@@ -1,0 +1,83 @@
+[
+    {
+        "exercise_id": "BICEP_CURL-20241213-143946",
+        "exercise_datetime": "2024-12-13 14:39:46",
+        "set_number": 1,
+        "workout_time": "01:57",
+        "mistake_counts": {
+            "proper_bicep_curl": 3,
+            "elbow_drift": 3,
+            "incomplete_contraction": 4,
+            "momentum_cheat": 1
+        },
+        "reps_results": [
+            {
+                "rep_index": 1,
+                "result": "elbow_drift",
+                "feedback": "Avoid letting your elbows move forward.",
+                "feedback_type": "normal"
+            },
+            {
+                "rep_index": 2,
+                "result": "elbow_drift",
+                "feedback": "Keep your elbows close to your sides.",
+                "feedback_type": "normal"
+            },
+            {
+                "rep_index": 3,
+                "result": "incomplete_contraction",
+                "feedback": "Fully contract your biceps at the top.",
+                "feedback_type": "normal"
+            },
+            {
+                "rep_index": 4,
+                "result": "proper_bicep_curl",
+                "feedback": "Fantastic curls!",
+                "feedback_type": "normal"
+            },
+            {
+                "rep_index": 5,
+                "result": "incomplete_contraction",
+                "feedback": "Fully contract your biceps at the top.",
+                "feedback_type": "normal"
+            },
+            {
+                "rep_index": 6,
+                "result": "proper_bicep_curl",
+                "feedback": "Good work achieving full contractions!",
+                "feedback_type": "supportive"
+            },
+            {
+                "rep_index": 7,
+                "result": "elbow_drift",
+                "feedback": "Avoid letting your elbows move forward.",
+                "feedback_type": "normal"
+            },
+            {
+                "rep_index": 8,
+                "result": "incomplete_contraction",
+                "feedback": "Squeeze your biceps for maximum contraction.",
+                "feedback_type": "normal"
+            },
+            {
+                "rep_index": 9,
+                "result": "incomplete_contraction",
+                "feedback": "Fully contract your biceps at the top.",
+                "feedback_type": "normal"
+            },
+            {
+                "rep_index": 10,
+                "result": "momentum_cheat",
+                "feedback": "Perform the movement slowly and with control.",
+                "feedback_type": "normal"
+            },
+            {
+                "rep_index": 11,
+                "result": "proper_bicep_curl",
+                "feedback": "Nice control over your movements!",
+                "feedback_type": "supportive"
+            }
+        ],
+        "completed_at": "2024-12-13 14:42:01"
+    }
+]
